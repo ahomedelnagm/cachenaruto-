@@ -2,7 +2,7 @@
   "name": "♫︎༆𝙈𝙐𝙎𝙄𝘾_𝙀𝙇𝙆𝙀𝘼𝙏𝙄𝘽༆♫︎",
   "description": "Open-Source bot to play songs in your Telegram's Group Voice Chat. Powered by PyTgCalls.",
   "keywords": ["music", "voicechat", "telegram"],
-  "repository": "https://github.com/ahomedelnagm/Elkeatib0121",
+  "repository": "https://github.com/ahomedelnagm/cachenaruto-",
   "stack": "container",
   "env": {
     "SESSION_NAME": {
